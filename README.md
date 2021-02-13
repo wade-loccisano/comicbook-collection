@@ -9,3 +9,5 @@ Final Capstone made for Tech Elevator Coding Bootcamp.
 * Implemented Vue.js framework to create the front-end portion of the application.
 * Used Axios to make calls to Marvel's comic book API for dynamic information about your favorite superheroes.
 * Used back-end routing in Java (SpringBoot) to allow users to store collection and comic information in a SQL database.
+
+![screenshot](https://github.com/wade-loccisano/readme-files/blob/master/comicbook-collection-imgs/comicbook-collection1.png)
